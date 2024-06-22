@@ -404,6 +404,14 @@
         <fullName>LastCUUpdateDate</fullName>
     </fields>
     <fields>
+        <fullName>Last_Date__c</fullName>
+        <externalId>false</externalId>
+        <label>Last Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
         <fullName>LeadSource</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
